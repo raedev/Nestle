@@ -1,0 +1,5 @@
+include ':nestle-android-lib'
+include ':app:sdk'//include ':tinker-lib'
+//include ':sdk-tinker-lib'
+include ':app'
+rootProject.name = "SdkTinker"
